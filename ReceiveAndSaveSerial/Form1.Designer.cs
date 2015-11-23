@@ -193,8 +193,10 @@
             this.Controls.Add(this.connect_btn);
             this.Controls.Add(this.baudRate_cbx);
             this.Controls.Add(this.com_cbx);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Serial saver";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);

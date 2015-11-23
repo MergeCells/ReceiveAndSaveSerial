@@ -144,7 +144,7 @@ namespace ReceiveAndSaveSerial
         {
             if (serialPort1.IsOpen)
             {
-                if (MessageBox.Show("フォームを終了します", "確認", MessageBoxButtons.YesNo) == DialogResult.No)
+                if (MessageBox.Show("Form is closing.", "confirm", MessageBoxButtons.YesNo) == DialogResult.No)
                 {
                     e.Cancel = true;
                 }

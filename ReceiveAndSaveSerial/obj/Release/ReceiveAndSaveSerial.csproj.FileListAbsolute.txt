@@ -1,0 +1,8 @@
+C:\Users\Arashimata10\documents\visual studio 2013\Projects\ReceiveAndSaveSerial\ReceiveAndSaveSerial\bin\Release\ReceiveAndSaveSerial.exe.config
+C:\Users\Arashimata10\documents\visual studio 2013\Projects\ReceiveAndSaveSerial\ReceiveAndSaveSerial\bin\Release\ReceiveAndSaveSerial.exe
+C:\Users\Arashimata10\documents\visual studio 2013\Projects\ReceiveAndSaveSerial\ReceiveAndSaveSerial\bin\Release\ReceiveAndSaveSerial.pdb
+C:\Users\Arashimata10\documents\visual studio 2013\Projects\ReceiveAndSaveSerial\ReceiveAndSaveSerial\obj\Release\ReceiveAndSaveSerial.Form1.resources
+C:\Users\Arashimata10\documents\visual studio 2013\Projects\ReceiveAndSaveSerial\ReceiveAndSaveSerial\obj\Release\ReceiveAndSaveSerial.Properties.Resources.resources
+C:\Users\Arashimata10\documents\visual studio 2013\Projects\ReceiveAndSaveSerial\ReceiveAndSaveSerial\obj\Release\ReceiveAndSaveSerial.csproj.GenerateResource.Cache
+C:\Users\Arashimata10\documents\visual studio 2013\Projects\ReceiveAndSaveSerial\ReceiveAndSaveSerial\obj\Release\ReceiveAndSaveSerial.exe
+C:\Users\Arashimata10\documents\visual studio 2013\Projects\ReceiveAndSaveSerial\ReceiveAndSaveSerial\obj\Release\ReceiveAndSaveSerial.pdb
