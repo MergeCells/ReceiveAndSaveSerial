@@ -1,0 +1,9 @@
+c:\users\arashimata10\documents\visual studio 2013\Projects\ReceiveAndSaveSerial\ReceiveAndSaveSerial\bin\Debug\ReceiveAndSaveSerial.exe.config
+c:\users\arashimata10\documents\visual studio 2013\Projects\ReceiveAndSaveSerial\ReceiveAndSaveSerial\bin\Debug\ReceiveAndSaveSerial.exe
+c:\users\arashimata10\documents\visual studio 2013\Projects\ReceiveAndSaveSerial\ReceiveAndSaveSerial\bin\Debug\ReceiveAndSaveSerial.pdb
+c:\users\arashimata10\documents\visual studio 2013\Projects\ReceiveAndSaveSerial\ReceiveAndSaveSerial\obj\Debug\ReceiveAndSaveSerial.csprojResolveAssemblyReference.cache
+c:\users\arashimata10\documents\visual studio 2013\Projects\ReceiveAndSaveSerial\ReceiveAndSaveSerial\obj\Debug\ReceiveAndSaveSerial.Form1.resources
+c:\users\arashimata10\documents\visual studio 2013\Projects\ReceiveAndSaveSerial\ReceiveAndSaveSerial\obj\Debug\ReceiveAndSaveSerial.Properties.Resources.resources
+c:\users\arashimata10\documents\visual studio 2013\Projects\ReceiveAndSaveSerial\ReceiveAndSaveSerial\obj\Debug\ReceiveAndSaveSerial.csproj.GenerateResource.Cache
+c:\users\arashimata10\documents\visual studio 2013\Projects\ReceiveAndSaveSerial\ReceiveAndSaveSerial\obj\Debug\ReceiveAndSaveSerial.exe
+c:\users\arashimata10\documents\visual studio 2013\Projects\ReceiveAndSaveSerial\ReceiveAndSaveSerial\obj\Debug\ReceiveAndSaveSerial.pdb
